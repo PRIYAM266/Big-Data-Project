@@ -68,21 +68,21 @@ achieved good results in terms of classification accuracy and other metrics.
 
 **Results**
 
-**(a) ResNet50**
+**(a) ResNet50**  
 ![resnet50 result](https://user-images.githubusercontent.com/54617669/209216815-9567197a-a487-4f17-8599-401ad9496bee.png)
 ![resnet50 CM](https://user-images.githubusercontent.com/54617669/209216841-f5aefceb-6708-487a-858e-c7413e0a8e99.png)
 
 
-**(b) ResNet50V2**
+**(b) ResNet50V2**  
 ![resnet50v2 result](https://user-images.githubusercontent.com/54617669/209216983-21bd1a04-5729-4e2d-8871-2b63160e8524.png)
 ![resnet50v2 Cm](https://user-images.githubusercontent.com/54617669/209216992-47cba241-2cdd-4819-8f23-de75494ceda4.png)
 
 
-**(c) VGG16**
+**(c) VGG16**  
 ![vgg16 result](https://user-images.githubusercontent.com/54617669/209217031-4e7e7cae-c84a-48f0-a405-c6a62dff8c68.png)
 ![vgg16 CM](https://user-images.githubusercontent.com/54617669/209217041-14a8d329-892b-4df6-8dde-ba6e01aab9f8.png)
 
-**(d) VGG19**
+**(d) VGG19**  
 ![vgg19 result](https://user-images.githubusercontent.com/54617669/209217066-2a00dbb7-0e70-4616-a004-75fffa72d63a.png)
 ![vgg19 CM](https://user-images.githubusercontent.com/54617669/209217082-af4d21d6-fd60-4900-b052-977a4478aef8.png)
 
