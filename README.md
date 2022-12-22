@@ -66,6 +66,8 @@ future projects or even deploy them in real-world applications, such as land cov
 10environmental monitoring. Overall, the CNN models performed well on the EuroSat dataset and
 achieved good results in terms of classification accuracy and other metrics.  
 
+**Trained models :-** https://drive.google.com/drive/folders/1G8e98AOMsdWqRxWeiwv2IwFGhvVlSdrG?usp=sharing
+
 **Results**
 
 **(a) ResNet50**  
